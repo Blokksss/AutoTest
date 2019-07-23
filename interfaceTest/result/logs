@@ -1,0 +1,161 @@
+2019-05-22 14:27:31,457 - logs… - INFO - {
+  "code": 200,
+  "data": {
+    "mobile": "15872896008",
+    "reg_time": "2019-05-14 15:10:30",
+    "token": "c05eAFIDU1UBVAEGBVBUAwpSUwUIBAlTBFJRUFsBAVFXBwYFUwVqAVJdVw4CBwgGDFRVVFQDDwdTAVoCVQRVWVQCDAlaA1NsA1QADxhTBR4LVxBVBQsLVghQUT9X",
+    "user_role": 2,
+    "user_type": 1
+  },
+  "msg": "登录成功"
+}
+2019-05-22 14:27:49,178 - logs… - INFO - {
+  "code": 200,
+  "data": {
+    "mobile": "15872896008",
+    "reg_time": "2019-05-14 15:10:30",
+    "token": "54feBwYCCQEHAQQDBF0HVQIMUgkLUllWAwdbVVUBUVRXBAMCBwQwVVQIUgsDAQlRAQgEAV1RV1UDUVsCBgQFXFQBCQ4OAgk4BQEFChlVBEkGC0EADFlTBFgHWz8E",
+    "user_role": 2,
+    "user_type": 1
+  },
+  "msg": "登录成功"
+}
+2019-05-22 14:53:32,550 - logs… - INFO - resultPathD:\PycharmProjects\interfaceTest\result\report.html
+2019-05-22 14:53:32,551 - logs… - INFO - caseListFileD:\PycharmProjects\interfaceTest\caselist.txt
+2019-05-22 14:53:32,551 - logs… - INFO - caseList[]
+2019-05-22 14:57:04,536 - logs… - INFO - resultPathD:\PycharmProjects\interfaceTest\result\report.html
+2019-05-22 14:57:04,537 - logs… - INFO - caseListFileD:\PycharmProjects\interfaceTest\caselist.txt
+2019-05-22 14:57:04,537 - logs… - INFO - caseList[]
+2019-05-22 14:57:04,815 - logs… - INFO - {
+  "code": 500,
+  "msg": "服务器繁忙,请稍候重试"
+}
+2019-05-22 14:57:04,935 - logs… - INFO - {
+  "code": 500,
+  "msg": "服务器繁忙,请稍候重试"
+}
+2019-05-22 14:57:54,604 - logs… - INFO - resultPathD:\PycharmProjects\interfaceTest\result\report.html
+2019-05-22 14:57:54,604 - logs… - INFO - caseListFileD:\PycharmProjects\interfaceTest\caselist.txt
+2019-05-22 14:57:54,604 - logs… - INFO - caseList[]
+2019-05-22 14:57:54,831 - logs… - INFO - {
+  "code": 500,
+  "msg": "服务器繁忙,请稍候重试"
+}
+2019-05-22 14:57:54,954 - logs… - INFO - {
+  "code": 500,
+  "msg": "服务器繁忙,请稍候重试"
+}
+2019-05-22 14:59:15,887 - logs… - INFO - resultPathD:\PycharmProjects\interfaceTest\result\report.html
+2019-05-22 14:59:15,887 - logs… - INFO - caseListFileD:\PycharmProjects\interfaceTest\caselist.txt
+2019-05-22 14:59:15,887 - logs… - INFO - caseList[]
+2019-05-22 14:59:16,124 - logs… - INFO - {
+  "code": 500,
+  "msg": "服务器繁忙,请稍候重试"
+}
+2019-05-22 14:59:16,253 - logs… - INFO - {
+  "code": 500,
+  "msg": "服务器繁忙,请稍候重试"
+}
+2019-05-22 15:04:21,218 - logs… - INFO - {
+  "code": 500,
+  "msg": "服务器繁忙,请稍候重试"
+}
+2019-05-22 15:04:21,347 - logs… - INFO - {
+  "code": 500,
+  "msg": "服务器繁忙,请稍候重试"
+}
+2019-05-22 15:05:05,175 - logs… - INFO - {
+  "code": 200,
+  "data": {
+    "mobile": "15872896008",
+    "reg_time": "2019-05-14 15:10:30",
+    "token": "ae3cUggJAQUJUVQFVAJZB1ELDVVQUQdRVwcGC1wIBQUJCwdXCQ84UVpYAg1TBwAAUQJRBAZWAQNQUA4GDg1RDQoODVsACQE8C1FVDElTDRhWARQFVl4HUAsCAjsM",
+    "user_role": 2,
+    "user_type": 1
+  },
+  "msg": "登录成功"
+}
+2019-05-22 15:05:37,165 - logs… - INFO - {
+  "code": 500,
+  "msg": "服务器繁忙,请稍候重试"
+}
+2019-05-22 15:05:37,288 - logs… - INFO - {
+  "code": 500,
+  "msg": "服务器繁忙,请稍候重试"
+}
+2019-05-22 15:13:20,805 - logs… - INFO - {
+  "code": 500,
+  "msg": "服务器繁忙,请稍候重试"
+}
+2019-05-22 15:13:20,931 - logs… - INFO - {
+  "code": 500,
+  "msg": "服务器繁忙,请稍候重试"
+}
+2019-05-22 15:19:30,048 - logs… - INFO - {
+  "code": 500,
+  "msg": "服务器繁忙,请稍候重试"
+}
+2019-05-22 15:19:30,175 - logs… - INFO - {
+  "code": 500,
+  "msg": "服务器繁忙,请稍候重试"
+}
+2019-05-22 15:20:12,622 - logs… - INFO - {
+  "code": 500,
+  "msg": "服务器繁忙,请稍候重试"
+}
+2019-05-22 15:20:12,748 - logs… - INFO - {
+  "code": 500,
+  "msg": "服务器繁忙,请稍候重试"
+}
+2019-05-22 15:34:32,003 - logs… - INFO - {
+  "code": 200,
+  "data": {
+    "mobile": "15872896008",
+    "reg_time": "2019-05-14 15:10:30",
+    "token": "4549CQAIVAgHBFIIAAsDAQUCXgADUFMDUgcFUwRSUQgGAQAMAQ5tXFQNBAAHXV0FBFADBVMABABRVl8EA1cFAAUECgAICFQxBQRTAR0JUB0DU0YEAwgBUgoHVDkB",
+    "user_role": 2,
+    "user_type": 1
+  },
+  "msg": "登录成功"
+}
+2019-05-22 15:37:18,713 - logs… - INFO - {
+  "code": 500,
+  "msg": "服务器繁忙,请稍候重试"
+}
+2019-05-22 15:37:18,841 - logs… - INFO - {
+  "code": 500,
+  "msg": "服务器繁忙,请稍候重试"
+}
+2019-05-22 15:37:40,224 - logs… - INFO - resultPathD:\PycharmProjects\interfaceTest\result\report.html
+2019-05-22 15:37:40,224 - logs… - INFO - caseListFileD:\PycharmProjects\interfaceTest\caselist.txt
+2019-05-22 15:37:40,224 - logs… - INFO - caseList[]
+2019-05-22 15:37:40,455 - logs… - INFO - {
+  "code": 500,
+  "msg": "服务器繁忙,请稍候重试"
+}
+2019-05-22 15:37:40,578 - logs… - INFO - {
+  "code": 500,
+  "msg": "服务器繁忙,请稍候重试"
+}
+2019-05-22 15:40:56,035 - logs… - INFO - resultPathD:\PycharmProjects\interfaceTest\result\report.html
+2019-05-22 15:40:56,035 - logs… - INFO - caseListFileD:\PycharmProjects\interfaceTest\caselist.txt
+2019-05-22 15:40:56,035 - logs… - INFO - caseList[]
+2019-05-22 15:40:56,262 - logs… - INFO - {
+  "code": 500,
+  "msg": "服务器繁忙,请稍候重试"
+}
+2019-05-22 15:40:56,387 - logs… - INFO - {
+  "code": 500,
+  "msg": "服务器繁忙,请稍候重试"
+}
+2019-05-22 15:57:47,116 - logs… - INFO - {
+  "code": 200,
+  "data": {
+    "mobile": "15872896008",
+    "reg_time": "2019-05-14 15:10:30",
+    "token": "fb5bCQNRUQJTBlVTA1IBBAgDUQVSV1VUAgRaCAYJAAMGClMMAldoVgAPA1sEAloEBVdSU1YHBlBUV1sEAQxUCwUPWQALUVE7UQZUWh5WVxwCVBdSBg8FAQ8BUDkD",
+    "user_role": 2,
+    "user_type": 1
+  },
+  "msg": "登录成功"
+}
